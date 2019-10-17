@@ -1,4 +1,10 @@
 # SumpPump-STMF0
+Development stopped on this repo as I've moved to STM32F103
+based "Blue Pill" boards for most of my work.  As a result, 
+because I have plenty of them around, this project is now
+run on a bluepill.  Nothing is necessarily wrong with
+this code, I've just moved to a different platform.
+
  A sump pump controler based on the STM32F0 Discovery board.
  
  My house is built on granite slab so it is impossible to dig a normal
